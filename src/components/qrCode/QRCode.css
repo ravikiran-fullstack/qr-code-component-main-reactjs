@@ -1,6 +1,8 @@
 .qrCodeCmp {
-  height: 50vh;
-  width: 20vw;
+  height: 300px;
+  width: 200px;
+  min-height: 400px;
+  min-width: 250px;
   border-radius: 10px;
   display: flex;
   padding: 20px;
@@ -14,6 +16,8 @@
   background: 0vw 0vh/100% no-repeat url(./image-qr-code.png);
   height: 200px;
   width: 200px;
+  min-height: 200px;
+  min-width: 200px;
   border-radius: 10px;
 }
 
