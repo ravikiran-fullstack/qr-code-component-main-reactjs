@@ -5,8 +5,8 @@ const QRCode = () => {
   return (
     <div className='qrCodeCmp'>
       <div className='qrCodeCmpImg'></div>
-      <div>
-        <h3 className='heading'>
+      <div className='qrCodeCmpInfo'>
+        <h3 className='qrCodeCmpInfoHeading'>
           Improve your front-end skills by building projects
         </h3>
         <p>
